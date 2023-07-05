@@ -1,0 +1,17 @@
+django
+sympy
+scikit-learn
+matplotlib
+flask-restful
+flask-restx
+keras
+ipython
+pandas
+pillow
+nltk
+scipy
+sqlalchemy
+networkx
+torchvision
+scikit-image
+tensorflow-addons
